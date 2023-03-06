@@ -9,13 +9,13 @@ global:
 
   git:
     hostname: github.com
-    account: hybrid-cloud-demos
-    username: hybrid-cloud-demos
-    email: SOMEWHERE@EXAMPLE.COM
-    dev_revision: main
+    account: lucamaf
+    username: lucamaf
+    email: luferrar@redhat.com
+    dev_revision: v1.0
 
   imageregistry:
-    account: hybridcloudpatterns
+    account: luferrar
     hostname: quay.io
     type: quay
 
