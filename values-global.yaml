@@ -15,7 +15,7 @@ global:
     dev_revision: v1.0
 
   imageregistry:
-    account: hybridcloudpatterns
+    account: luferrar
     hostname: quay.io
     type: quay
 
