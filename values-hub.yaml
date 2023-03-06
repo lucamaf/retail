@@ -3,7 +3,7 @@ clusterGroup:
   isHubCluster: true
   # Note: setting this to true stores the vault unseal keys inside a cluster secret and
   # is fundamentally insecure
-  insecureUnsealVaultInsideCluster: true
+  #  insecureUnsealVaultInsideCluster: true
 
   namespaces:
     - open-cluster-management
@@ -18,7 +18,7 @@ clusterGroup:
     acm:
       name: advanced-cluster-management
       namespace: open-cluster-management
-      channel: release-2.6
+        #   channel: release-2.6
 
     pipelines:
       name: openshift-pipelines-operator-rh
