@@ -12,7 +12,7 @@ global:
     account: lucamaf
     username: lucamaf
     email: luferrar@redhat.com
-    dev_revision: v1.0
+    dev_revision: fixit
 
   imageregistry:
     account: luferrar
